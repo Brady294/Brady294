@@ -133,7 +133,7 @@ My long-term goal is to build systems that are both **useful and scalable**, esp
 
 - GitHub: https://github.com/Brady294
 - Email: githinjijohn0294@gmail.com
-- LinkedIn: (Add your LinkedIn URL here if needed)
+- 
 
 ---
 
