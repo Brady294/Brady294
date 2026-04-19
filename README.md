@@ -68,7 +68,7 @@
 
 ---
 
-##  GitHub Insights
+## GitHub Insights
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brady294&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -76,9 +76,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Brady294&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Total%20Commits%20(This%20Year)-17-8A2BE2?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Brady294&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ##  Connect
