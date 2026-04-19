@@ -68,7 +68,7 @@
 
 ---
 
-## GitHub Insights
+##  GitHub Insights
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brady294&show_icons=true&theme=tokyonight&hide_border=true" />
